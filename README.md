@@ -2,6 +2,7 @@
 CS-370-X6160 Current/Emerging Trends in CS 23EW6
 
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+I was given a Jupyter Notebook Python code where I implemented an algorithm for a reinforcement-learning routine that helped to find a path through a maze.
 To write maintainable, readable, modular software applications, I develop code into separate functions and classes within the program. The module I created for the project contains all the repetitive database access logic into simple functions. This made the main code much cleaner and allowed the functions to be easily reused. To extend this module's capabilities, I added error-handling logic to make sure that errors were easily located.
 
 As a computer scientist, I take a methodical, step-by-step approach to solving problems. For this project, I broke down the requirements into logical components like the CRUD functions, dashboard layout driver, and widgets. By tackling each piece incrementally and testing frequently, I could iterate on each component and verify that they operated correctly. I find this approach less overwhelming than trying to solve everything at once. In the future, I will take a similar path for any complex problem - breaking it down into smaller parts that can be developed and tested more easily.
